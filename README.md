@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ethan-berke
-- 👀 I’m interested in ... Web developement
-- 🌱 I’m currently learning everything I'm able to, but right now JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+This is a python script I made that shows familiarity with file handling and exceptions.
 
-<!---
-ethan-berke/ethan-berke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Recieves input from user (file name)
+Opens file and parses through to collect data
+Data of the file is put through very simple function (average of numbers or something)
